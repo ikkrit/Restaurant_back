@@ -1,0 +1,36 @@
+/*  
+    Author: Ikkrit
+    Theme: Restaurant
+    Version: 1
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    border: 1px solid red;
+}
+
+.img-responsive {
+    width: 100%;
+}
+
+.text-right {
+    text-align: right;
+}
+
+/*--------------- NAVBAR ---------------*/
+
+.logo {
+    border: 1px solid #000;
+    width: 10%;
+}
+
